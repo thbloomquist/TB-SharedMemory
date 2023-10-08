@@ -1,0 +1,4 @@
+/Users/theob/Downloads/assign02_shared_memory/cmake-build-debug/CMakeFiles/mainProc.dir
+/Users/theob/Downloads/assign02_shared_memory/cmake-build-debug/CMakeFiles/childProc.dir
+/Users/theob/Downloads/assign02_shared_memory/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/theob/Downloads/assign02_shared_memory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
